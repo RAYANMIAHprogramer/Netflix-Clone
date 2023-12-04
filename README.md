@@ -1,1 +1,1 @@
-netflix clone using html an css
+netflix clone using html and css
